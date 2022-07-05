@@ -1,4 +1,4 @@
-# Eyegaze-Mrtk-Vuforia-Sample
+# Eyegaze-Mrtk-Vuforia-Tests
 Testing eyegaze function in HoloLens2 with other stuff (Unity)
 
 ## Note
@@ -6,7 +6,7 @@ Because vuforia package is too large for git, used personal dropbox as LFS with 
 
 ## Link
 Corresponding LFS folder dropbox link for this project:
-[dropbox-link](https://www.dropbox.com/sh/5ckr9om9wete8us/AADUFSx7V7gHSfYPZLM83GCba?dl=0)
+[LFS-folder of Eyegaze-Mrtk-Vuforia-Tests](https://www.dropbox.com/sh/ayqzlvbr0dtuw3j/AACzSGU1CWPsZelnRuFLXgFya?dl=0)
 
 ###### ---
 For more information how to configure Git LFS to use in dropbox, refer to this [tutorial](https://weirdbearddev.com/resources/learning/configuring-git-lfs-to-use-dropbox/); i.e. Clone An Existing Repo section.
